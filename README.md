@@ -1,6 +1,6 @@
 # research-payments-ncre-2023
 
-# US Research Payments in Non-Covered Recipient Entity (NCRE) 2023
+# Research Payments of Non-Covered Recipient Entity (NCRE) in the United States 2023
 
 Healthcare is one of the sought-after areas on its research and development by providing healthcare workers with innovation and associated evidence. It is beneficial in developing prevention interventions, effective treatments, and care pathways. In the US, the stakeholders in the healthcare RnD include covered teaching hospitals, individual covered physicians and practitioners, and lastly non-covered recipient entity or NCREs. According to Center for Medicare and Medicaid Services (CMS), NCREs holds as the majority element of RnD in the US. Knowing what NCREs are using for research are insightful for emerging healthcare companies by answering questions such as, "Which therapeutic area has the highest records of NCREs in New York?", "Where's the most funded research in forms of medical device for Cardiology/Vascular Diseases in California?", and "What's the most-used product by NCREs in the US on the therapeutic area of neurology?" In this project, we'll answer these kinds of questions through data.
 
